@@ -1,2 +1,1 @@
-# Tugas8
-new repo for tugas 8 Shell Tooling
+new repo for Project Lab BI II
